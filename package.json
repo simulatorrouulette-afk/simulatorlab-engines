@@ -1,0 +1,14 @@
+{
+  "name": "simulatorlab-engines",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public TypeScript roulette and Texas Hold'em engines used by Simulator Lab",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22.18"
+  }
+}
+
